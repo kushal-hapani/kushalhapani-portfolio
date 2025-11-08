@@ -31,7 +31,7 @@ I’ve developed multiple production-grade apps, including AI-powered food scann
 ### [🥗 Chuki: AI Food Scanner](https://play.google.com/store/apps/details?id=com.chuki.app.chuki)
 AI-powered app that analyzes packaged food and provides nutrition-based scoring.
 - 📊 **Features:** AI food analysis, daily food journal, social media feed, personalized food insights.  
-- ⚙️ **Tech:** Flutter, Firebase, REST APIs, Hive, Riverpod  
+- ⚙️ **Tech:** Flutter, Firebase, REST APIs, Hive, Getx  
 - 🎯 Helps users make smarter dietary decisions and track nutrition effectively.
 
 ---
@@ -47,7 +47,7 @@ Personalized tarot reading and journaling experience.
 ### [💰 ExpenseWise: Budget & Expense Tracker](https://play.google.com/store/apps/details?id=com.expensewise.app&hl=en_IN)
 A collaborative expense management app for individuals and groups.
 - 💡 **Features:** Shared budgets, planned payments, categorized tracking, analytics.  
-- ⚙️ **Tech:** Flutter, Firebase, Riverpod, Hive  
+- ⚙️ **Tech:** Flutter, Firebase, Riverpod  
 - 📈 Allows multiple users to manage shared finances seamlessly.
 
 ---
@@ -64,7 +64,7 @@ Two interconnected apps for salon clients and barbers.
 ### [📝 Easy Todo](https://play.google.com/store/apps/details?id=com.projectplay.todoapp)
 A productivity app designed to manage daily tasks efficiently.
 - 📅 **Features:** Scheduled notifications, task categories, calendar view, productivity analytics.  
-- ⚙️ **Tech:** Flutter, Hive, Riverpod  
+- ⚙️ **Tech:** Flutter, Hive, Getx  
 - ✅ Focused on providing a smooth and organized task management experience.
 
 ---
